@@ -1,0 +1,9 @@
+<div class="navbar-header">
+          <a class="navbar-brand company" href="#">Food, LLC</a>
+          <button type="button" class="navbar-toggler navbar-right" data-toggle="collapse" data-target="#myNavbar"><br class="d-block d-sm-none">
+            <span class="navbar-toggler-icon"></span>
+            <!--<span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>-->
+          </button>
+        </div> 
